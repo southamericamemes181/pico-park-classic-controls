@@ -1,4 +1,4 @@
-# PICO PARK:Classic Edition control configurations
+# PICO PARK:Scratch Blocks Edition control configurations
 ![pico-header](https://user-images.githubusercontent.com/7528322/132099203-68ced1b5-5b13-43fd-bada-60e72aed0c27.jpg)
 
 ## How to use a keyboard configuration file
@@ -94,3 +94,5 @@ I didn't realise there was an in-game keyboard control editor so I spent time de
 | 68          | RIGHT ARROW |
 | 69          | LEFT ARROW  |
 | 88          | UNBOUND?    |
+
+https://scratchblocks.github.io/#?style=scratch3&script=Red%0AOrange%3A%3A%20variables%0AYellow%3A%3A%20events%0AGreen%3A%3A%20operators%0AAqua%3A%3A%20sensing%0ABlue%3A%3A%20motion%0APurple%3A%3A%20looks%0APink%3A%3A%20sound%0ABrown%3A%3A%20%23430%0ASilver%3A%3A%20grey
